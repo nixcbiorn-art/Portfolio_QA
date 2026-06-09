@@ -18,7 +18,7 @@ QA Engineer с коммерческим опытом в PropTech-проекте 
 | **Тестирование и инструменты** | Postman, cURL, Chrome DevTools (Network, Application), YouTrack, Jam.dev, Git, Figma | Уверенный |
 | **API и протоколы** | REST, JSON, HTTP/HTTPS (понимание кодов 2xx, 4xx, 5xx), JWT, `multipart/form-data`, Webhooks | Уверенный |
 | **Бэкенд и БД** | Чтение логов (Grafana/Loki), базовые SQL-запросы, понимание работы очередей (Celery) | Базовый / Чтение кода |
-| **Фронтенд** | Понимание принципов работы SPA (React/Redux), FormData, специфика сериализации объектов | Базовый / Анализ запросов |
+| **Фронтенд** | Глубокая отладка SPA (React/Redux) через Chrome DevTools, анализ FormData, выявление ошибок сериализации и валидации граничных значений на клиенте | Уверенный (акцент на клиент-серверных контрактах) |
 | **Интеграции** | Bitrix24 REST API, Telegram/Max Bot API | Опыт практического тестирования |
 
 ---
